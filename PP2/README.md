@@ -1,7 +1,7 @@
 Andrés Josué Velásquez Jiménez
 FI25047199
 Se utilizó Visual Studio Code
-
+Se utilizó Chatgpt para la elaboración del codigo debido a que estaba un poco perdido sobre el uso de input.txt, output.txt y java.io/java.nio, el codigo se realizó usando de base el codigo que vimos la semana pasada, agarrando la estructura de "MyStackInterface" y "MyStackString" que hicimos la clase pasada, al tener eso le mandé la siguiente parte del enunciado "El archivo a leer se llamará input.txt y el archivo a escribir (el cual se debe crear en caso que no exista, o bien, sobreescribir en caso que sí exista) se llamará output.txt. Para poder leer y escribir archivos, se deben utilizar paquetes estándar de Java, tal como java.io o java.nio.", con lo cual me corrigió el codigo, dandome como resultado el codigo entregado en esta practica.
 ¿Cree que exista otra forma de efectuar la inversión del contenido de un archivo sin necesitad de usar una pila? Si sí, indique cómo (sin necesidad de código).
 Usando una lista o arreglo, y guiandose por el numero de indice
 ¿En qué ejemplo de la vida real (no informático) se puede ver reflejado el uso de una pila?
