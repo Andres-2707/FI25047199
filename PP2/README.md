@@ -1,0 +1,8 @@
+Andrés Josué Velásquez Jiménez
+FI25047199
+Se utilizó Visual Studio Code
+
+¿Cree que exista otra forma de efectuar la inversión del contenido de un archivo sin necesitad de usar una pila? Si sí, indique cómo (sin necesidad de código).
+Usando una lista o arreglo, y guiandose por el numero de indice
+¿En qué ejemplo de la vida real (no informático) se puede ver reflejado el uso de una pila?
+Un ejemplo sería la carga de sacos en una camioneta, para ponerlo en contexto, mi papá tiene fincas de café y ultimamente le he estado ayudando con lo que es el transporte de este mismo, entonces cuando llego a una finca, cargamos el carro con sacos de café y cuando llego al recibidor, se descargan, y aquí es donde aplica el "FILO" ya que los primeros sacos que se descargan son los ultimos que cargaron, y los ultimos que se descargan son los primeros que se cargaron.
