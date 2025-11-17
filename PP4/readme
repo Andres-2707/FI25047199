@@ -1,0 +1,46 @@
+# PP4 – Árbol Binario Ordenado con Arreglo Fijo (BinTreeIntArray)
+
+## Datos del estudiante
+- **Nombre:** Andrés Josué Velásquez Jiménez  
+- **Carné:** FI25047199  
+- **IDE utilizado:** Visual Studio Code  
+
+---
+
+## Prompts utilizados (ChatGPT)
+
+### Prompt 1
+**Usuario:**  
+“Necesito ayuda con una práctica programada, te voy a mandar el enunciado y quiero que me expliques detalladamente lo que tengo que hacer.”
+
+**ChatGPT:**  
+Explicó cómo implementar los métodos `insert`, `preOrderTraversal` y `postOrderTraversal` de forma iterativa utilizando índices (`2i+1` y `2i+2`) y sin modificar los elementos prohibidos del enunciado.
+
+---
+
+### Prompt 2  
+**Usuario:**  
+“este es el código que tengo hecho, asegurate de que cumpla esto: [lista de restricciones técnicas].”
+
+**ChatGPT:**  
+Revisó cada restricción, validó que no se cambiara nada prohibido y devolvió el código final correcto para los tres métodos.
+
+---
+
+### Prompt 3  
+**Usuario:**  
+“esta bien?” (en referencia a la salida del programa)
+
+**ChatGPT:**  
+Verificó la consola y confirmó que la salida coincide exactamente con el ejemplo del enunciado.
+
+---
+
+### Prompt 4  
+**Usuario:**  
+“También necesito agregar un README.md con nombre, carné, IDE y los prompts.”
+
+**ChatGPT:**  
+Generó este archivo README.md siguiendo solo los elementos solicitados.
+
+
